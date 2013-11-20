@@ -1,0 +1,5 @@
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/codecs/snd-soc-wm9713.ko
+kernel/sound/soc/s3c24xx/snd-soc-s3c24xx.ko
+kernel/sound/soc/s3c24xx/snd-soc-s3c-ac97.ko
+kernel/sound/soc/s3c24xx/snd-soc-smdk-wm9713.ko
